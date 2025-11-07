@@ -44,4 +44,6 @@ main
 # repl.it
 .ccls-cache
 .replit
+.local
+.cache
 
